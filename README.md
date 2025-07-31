@@ -19,8 +19,6 @@ azure-ai-speech-language/
 │   ├── sentiment-analysis.md
 │   ├── entity-recognition.md
 │   └── text-classification.md
-└── imagens/
-    └── prints_das_etapas.png
 ```
 
 ## ✅ Aprendizados
